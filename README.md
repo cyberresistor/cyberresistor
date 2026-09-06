@@ -1,15 +1,4 @@
-> [!WARNING]
-> **Important Notice:** This profile is for creative/educational purposes only. I have no affiliation with the *cyberleek* hacker group. The profile theme is just an inspiration; I am not associated with that internet leek.
+Hello fellow GitHub profile travelers! Today I have something about me and what might change in my projects. Let's get started.first of all, there will be full focus on one project which you will see soon and it comes from the fact that life can hurt you quite a lot and it's about my situation because I won't confess too much here but I will say one thing: school, a friend moving away, the death of a loved one, over the course of two years and somewhere in that period I was diagnosed with depression which can give me a hard time and I also got a headache from porn and eroticism in general, which gave me a strange view of the opposite sex and a terrible sexualization of even the stupidest thing makes me think about sex and such fetishes. and so I don't see it working out for me right now, so I'll post as much as I can, so keep your fingers crossed that I can keep it up.
 
-# ⚡ Hi, I'm cyber resistor
 
-I build software across different domains whenever the coding fever hits me. Right now, my GitHub might look like a museum of extinct code and unknown dinosaur species, but who knows? One day it might just change the game.
-
-### 🛠️ Current Status & Projects
-- **In Development:** A new project in the gaming sector / a custom library.
-- **Details:** Classified (even I don't know the full details yet!).
-
-### 📣 Stay Tuned
-For real-time updates and brain-dumps, catch me on Mastodon:
-
-👉 [Follow on Mastodon](https://mastodon.social/@cyberresistor)
+Goodbye cyberresistor
