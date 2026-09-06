@@ -2,3 +2,4 @@ Hello fellow GitHub profile travelers! Today I have something about me and what 
 
 
 Goodbye cyberresistor
+(PS: There will also be jokes in commits or in the code, so my sense of humor will still be there, but there will be a little less of it)
